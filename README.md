@@ -1,6 +1,6 @@
 # Web_development_challenge
 
-Welcome — I'm Shivam-Shukl. This repository documents my 100-day web development challenge where I learn, practice, and share summaries of essential web development technologies. I'm following the "Coder Army" (Rohit Negi) web development videos as a primary guide and using this repo as both a learning log and motivation to stay consistent.
+Welcome — I'm Shivam Shukla. This repository documents my 100-day web development challenge where I learn, practice, and share summaries of essential web development technologies. I'm following the "Coder Army" (Rohit Negi) web development videos as a primary guide and using this repo as both a learning log and motivation to stay consistent.
 
 > Note: This repo's main purpose is personal learning and motivation. It may not be a polished resource for others, but I hope parts of it can inspire or help someone on a similar journey.
 
